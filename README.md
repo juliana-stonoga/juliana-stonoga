@@ -1,111 +1,85 @@
 <div align="center">
 
 <!-- ===================== BANNER ===================== -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,100:22D3EE&height=220&section=header&text=Juliana%20Stonoga&fontSize=52&fontColor=0F172A&animation=fadeIn&fontAlignY=38&desc=Engenharia%20de%20Software%20%20%7C%20%20Pesquisa%20%20%7C%20%20Hist%C3%B3ria&descSize=18&descAlignY=58&descColor=0F172A)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0098DB,100:0077B0&height=220&section=header&text=Juliana%20Stonoga&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenharia%20de%20Software%20%20%7C%20%20Pesquisa%20%20%7C%20%20Hist%C3%B3ria&descSize=18&descAlignY=58&descColor=E0F2FE)
 
 <!-- ===================== SUBTITULO ANIMADO ===================== -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3800&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software+na+PUCPR;Pesquisadora+PIBIC%2FCNPq;Mestranda+em+Hist%C3%B3ria+pela+UFPR;Transformando+ideias+em+c%C3%B3digo)](https://github.com/juliana-stonoga)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3800&pause=900&color=0098DB&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software+na+PUCPR;Pesquisadora+PIBIC%2FCNPq;Tecnologia%2C+ci%C3%AAncia+e+pensamento+cr%C3%ADtico)](https://github.com/juliana-stonoga)
 
 <!-- ===================== BADGES ===================== -->
-[![GitHub followers](https://img.shields.io/github/followers/juliana-stonoga?label=Seguidores&style=for-the-badge&color=0EA5E9&labelColor=0EA5E9)](https://github.com/juliana-stonoga)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
-[![Lattes](https://img.shields.io/badge/Curr%C3%ADculo%20Lattes-0EA5E9?style=for-the-badge&logoColor=white)](http://lattes.cnpq.br/SEU-ID)
+[![GitHub followers](https://img.shields.io/github/followers/juliana-stonoga?label=Seguidores&style=for-the-badge&color=0098DB&labelColor=0098DB)](https://github.com/juliana-stonoga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0098DB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-stonoga/)
+[![Lattes](https://img.shields.io/badge/Curr%C3%ADculo%20Lattes-0098DB?style=for-the-badge&logoColor=white)](http://lattes.cnpq.br/6624158569345493)
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0098DB,100:CDEEFB&height=8&section=header)
 
 </div>
 
----
-
 ## Perfil
 
-Estudante de **Engenharia de Software na PUCPR**, com atuação voltada ao desenvolvimento web e interesse na interseção entre tecnologia e ciências humanas. Bacharela em **História (PUCPR, 2024)** e mestranda em **História (UFPR)**, uma trajetória interdisciplinar que orienta um olhar crítico sobre o impacto social da tecnologia.
+Estudante de **Engenharia de Software na Pontifícia Universidade Católica do Paraná (PUCPR)**, com atuação voltada ao desenvolvimento web e interesse na interseção entre tecnologia e ciências humanas. Graduada em Bacharel em **História (2018 - 2024)** pela PUCPR. Atual **Diretora do Câmpus Curitiba** pelo Diretório Central de Estudantes da PUCPR.
 
-Atualmente atuo como **estagiária de desenvolvimento de software** e como **pesquisadora do programa PIBIC/CNPq**, investigando as relações entre inteligência artificial, poder e vigilância.
+**Estagiária de desenvolvimento de software** na **Pontifícia Universidade Católica do Paraná**, atuando no suporte da elaboração de cronogramas, relatórios, indicadores e na comunicação entre equipes, auxiliando no acompanhamento de riscos, melhorias, projetos estruturantes e na interface com o time de DevOps.
 
----
+**Pesquisadora do programa PIBIC/CNPq**, nas áreas de Filosofia da Tecnologia e Filosofia da Educação.
+
+Atuo como **pesquisadora acadêmica**, interligando a área de **história, filosofia e desenvolvimento de software**, explorando de que modo narrativas digitais e ferramentas computacionais podem promover a reflexão crítica, a análise cultural e o desenvolvimento de soluções inovadoras em contextos organizacionais.
+
+<div align="center">
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0098DB,100:CDEEFB&height=8&section=header)
+
+</div>
 
 ## Formação e Pesquisa
 
-- **Engenharia de Software** — Pontifícia Universidade Católica do Paraná (PUCPR), em andamento
-- **Mestrado em História** — Universidade Federal do Paraná (UFPR), em andamento
-- **Bacharelado em História** — Pontifícia Universidade Católica do Paraná (PUCPR), concluído em 2024
-- **Iniciação Científica (PIBIC/CNPq)** — pesquisa sobre inteligência artificial, poder e vigilância
+- **Engenharia de Software** — Pontifícia Universidade Católica do Paraná (PUCPR), em andamento.
+- **Bacharelado em História** — Pontifícia Universidade Católica do Paraná (PUCPR), concluído em 2024.
 
-**Linhas de interesse:** desenvolvimento web, ética e governança em inteligência artificial, tecnologia e sociedade, história das tecnologias.
+**Linhas de interesse:** Filosofia da Tecnologia, História Contemporânea e da Tecnologia, Desenvolvimento web.
 
----
+<div align="center">
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0098DB,100:CDEEFB&height=8&section=header)
+
+</div>
 
 ## Competências Técnicas
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-0EA5E9?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0EA5E9?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0EA5E9?style=for-the-badge&logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-0EA5E9?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0EA5E9?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-0EA5E9?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0098DB?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0098DB?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0098DB?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0098DB?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0098DB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0098DB?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-0EA5E9?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-0EA5E9?style=for-the-badge&logo=powerbi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0EA5E9?style=for-the-badge&logo=docker&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0EA5E9?style=for-the-badge&logo=azuredevops&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0098DB?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-0098DB?style=for-the-badge&logo=powerbi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0098DB?style=for-the-badge&logo=docker&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0098DB?style=for-the-badge&logo=azuredevops&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-0EA5E9?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0EA5E9?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0EA5E9?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0098DB?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0098DB?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0098DB?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0098DB?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
-
-> Ajuste esta seção conforme as tecnologias que você domina, adicionando ou removendo itens.
-
----
-
-## Projetos em Destaque
-
-<div align="center">
-
-[![projeto-lumen](https://github-readme-stats.vercel.app/api/pin/?username=juliana-stonoga&repo=projeto-lumen&title_color=0ea5e9&icon_color=22d3ee&text_color=334155&bg_color=ffffff&border_color=bae6fd&border_radius=8)](https://github.com/juliana-stonoga/projeto-lumen)
-[![projeto-lumen-v2](https://github-readme-stats.vercel.app/api/pin/?username=juliana-stonoga&repo=projeto-lumen-v2&title_color=0ea5e9&icon_color=22d3ee&text_color=334155&bg_color=ffffff&border_color=bae6fd&border_radius=8)](https://github.com/juliana-stonoga/projeto-lumen-v2)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0098DB,100:CDEEFB&height=8&section=header)
 
 </div>
-
-Para adicionar novos projetos, copie o bloco acima e altere o nome do repositório no parâmetro `&repo=`.
-
----
-
-## Estatísticas
-
-<div align="center">
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=juliana-stonoga&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=0ea5e9&icon_color=22d3ee&text_color=334155&bg_color=ffffff)
-
-![Sequência de contribuições](https://github-readme-streak-stats.herokuapp.com/?user=juliana-stonoga&hide_border=true&background=ffffff&ring=0ea5e9&fire=22d3ee&currStreakLabel=0ea5e9&sideLabels=334155&currStreakNum=334155&sideNums=334155&dates=94a3b8&stroke=0ea5e9)
-
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=juliana-stonoga&layout=compact&langs_count=8&hide_border=true&title_color=0ea5e9&text_color=334155&bg_color=ffffff)
-
-<!-- ===================== ELEMENTOS DIVERTIDOS ===================== -->
-![Troféus](https://github-profile-trophy.vercel.app/?username=juliana-stonoga&theme=flat&no-frame=true&column=7&title_color=0ea5e9&text_color=334155&bg_color=ffffff)
-
-![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=juliana-stonoga&bg_color=ffffff&color=0ea5e9&line=22d3ee&point=0ea5e9&area=true&area_color=bae6fd&hide_border=true&title_color=0ea5e9)
-
-</div>
-
----
 
 ## Contato
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@exemplo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
-[![ORCID](https://img.shields.io/badge/ORCID-0EA5E9?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/SEU-ID)
-[![Lattes](https://img.shields.io/badge/Lattes-0EA5E9?style=for-the-badge&logoColor=white)](http://lattes.cnpq.br/SEU-ID)
+[![Email](https://img.shields.io/badge/Email-0098DB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stonoga.juliana@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0098DB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juliana-stonoga)
 
 </div>
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:7DD3FC&height=110&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0077B0,100:0098DB&height=110&section=footer)
 
 </div>
